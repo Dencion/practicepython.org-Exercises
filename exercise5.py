@@ -7,5 +7,5 @@ userWord = input("Please enter a word:")
 if userWord == userWord[::-1]:
     print("Your word is a palindrome")
 else:
-    print("Your word aint a palindrome")
+    print("Your word isn't a palindrome")
 
